@@ -1,0 +1,19 @@
+	
+	Chapter 0: Prologue and Tutorial
+
+This is the tutorial chapter.
+It starts at the port in the town and ends at the entrance to Strahnbrad.
+Goals of this chapter:
+  o Teach the game to the players
+    > Attack an ally to interact with them
+    > Pledge to an altar
+    > Buy a talent
+    > You can buy units from barracks
+
+    Plot
+You arrive on a ship from an unknown place.
+You were supposed to meet Arthas here, but he left for Strahnbrad.
+Make your way to Strahnbrad through Kings Road.
+	
+1. You have to meet Arthas at the entrance to Strahnbrad
+

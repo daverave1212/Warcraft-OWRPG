@@ -1,0 +1,78 @@
+    Game Described:
+The game is an Open World RPG. If the player wants, he/she can go anywhere on the map (mostly).
+The plot of the game follows the plot of The Scourge of Lordaeron campaign, and the map happens in Lordaeron.
+The aim of the map is to provide an immersive RPG experience in the world of Lordaeron.
+The player(s) controls a hero and up to 4 units.
+
+    Game Design Key Points
+o There are always shortcuts. If you want to get from point A to point C, you might first have to go through point B. After you get to point C for the first time, you unlock a shortcut from point A directly to point B. Dark Souls style.
+o You can set up a base for yourself. You can buy various buildings and establish your own settlement (though it will cost)
+o You can help repair certain towns and villages (like Brill), bridges, etc and you will get unique rewards.
+o If you die, you lose some gold proportional to your level. You then respawn at an altar where you pledged.
+   To pledge to an altar, it just costs a small sum of gold.
+
+    World Connections and Fast Travel:
+o Brill --- Kingsroad Town (unlocked once you finish Chapter 3)
+
+    Price List
++1 Damage	: 20
++25 Health	: 20
++15 Mana	: 20
++1 Stat		: 40
++1 Armor        : 100
+
+    Pitching the game
+o Stretch goals, like a kickstarter!
+
+    Encounters:
+o Undead kid 'wanting to go home' :c
+o Orcs executing a child's parents in front of him. Make the players hate the orcs!
+o Undead killing your friends and ressing them against you
+o 'There has to be a way to cross this bridge...'
+o Surprise bandit ambush on the road (they were hiding) (and they have snares)
+o Spider cave with a talking spider
+o Fungus merchant (acolyte model)
+o Whole town FULL of zombies
+o A human necromancer in a cave worshipping Kel Thuzad
+o Orc warlock in a cave with blood runes. He has a pet Doom Guard. They Soul Link
+o Kobolds who find a strange source of power in cave. The cave continues with strange creatures.
+o Old abandoned gnome cave with machinations and metal golems. There are gnomes at the entrance
+o Grveyard passing like DS3. Every 0.5 seconds you are there, a zombie spawns
+o Zone with spiders and cobwebs
+o Zone with nests but nothing to be seen. Scorpions burrow from every place.
+At the end, a giant named scorpion unburrows
+o Crabs / Makrura
+o Lost Sea Giant
+o River Turtles
+o Hydra
+o Gorgon with her statues
+o Bounty Hunters look for the player
+o Kul Tiras sailors (yeah they got battleships and tables!)
+o A possessed item (with dialogue n shit)
+o Night Elf camp: only visible during the day. Not very friendly
+o Chen Stormstout and Lili selling you his potions and travel stories!
+o A sewer pipe that shoots fire
+o One-time use item that teleports you a short distance
+NOTE: Remember to have ways back!
+o An obelisk which requires to pawn an item.
+o A generator blocks the way. If you destroy it, it activates some nasty shit
+o Illusion wall
+
+    Ideas to implement
+o When you fast travel by boat/zepelin, in-game time passes
+o VIllagers are of multiple types (Brill Villager, Strahnbrad Villager, etc). Script them accordingly to react differently to the players, based on their culture.
+o When you click on an allied unit, it plays the sound.
+o Use sounds from World of Warcraft NPC's for interaction with NPC's.
+o Don't differentiate Bandit Female from Bandit Male - just Bandit, for immersion!
+
+
+
+
+
+
+
+
+
+
+
+
