@@ -1,0 +1,210 @@
+	Combat Encounters
+1. Orcs executing children in front of their parents for demons
+2. Ressed undead who you met earlier as NPCs
+3. A whole town FULL of zombies
+4. A human necromancer in a cave worshipping Kel Thuzad
+5. Orc warlock in a cave with blood runes. He has a pet Doom Guard. They Soul Link
+6. Kobolds who find a strange source of power in cave. The cave continues with strange creatures.
+7. Old abandoned gnome cave with machinations and metal golems. There are gnomes at the entrance
+8. Grveyard passing like DS3. Every 0.5 seconds you are there, a zombie spawns
+9. Zone with spiders and cobwebs
+10. Zone with nests but nothing to be seen. Scorpions burrow from every place.
+At the end, a giant named scorpion unburrows
+11. Crabs / Makrura
+12. Lost Sea Giant
+13. River Turtles
+14. Hydra
+15. Gorgon with her statues
+16. Bounty Hunters look for the player
+	Quests
+1. Locals hear chants in the nearby ruins (sirens)
+
+	Roleplay Encounters
+1. Brill Villager, Strahnbrad Villager, etc: different lines
+2. Night Elf camp: only visible during the day
+Not very friendly
+3. Undead kid wanting to go home...
+4. Chen Stormstout and Lili selling you his potions and travel stories!
+5. Kul Tiras sailors (yeah they got battleships and tables!)
+6. A possessed item (with dialogue n shit)
+7. 
+
+	Stuff
+1. Lost grimoire - a spellbook!
+
+
+	Environment
+0. Interactable objects, like weapon racks n shit
+1. A sewer pipe that shoots fire
+
+	Easter Eggs
+1. 'Fancy Beard'
+
+	Mechanics
+-1. Don't forget treasure chests at the end of dungeons
+0. When you click on an allied unit, play a sound effect
+Use WoW NPC Sounds
+1. Repair the Bridge to Brill (save)
+2. Boats have merchants
+3. When a unit owned by a players is issued to stop, issue it to hold position (so S = Hold Pos)
+
+	Puzzles
+1. 'There has to be a way to cross this bridge...'
+2. Cave with no entrance : the entrance is much later
+3. Rod of Teleportation : you can access some cool zones!
+Those zones also have levers on the other side so they only need to be activated once.
+4. An obelisk where you can pawn items - if you pawn the right item, reward
+5. Illusion wall
+6. A 'Generator' blocks the way. If you destroy it, it activates some nasty NPCS, but frees the way.
+
+	Story
+1. Teleport from Southpoint to Dalaran to deliver the message to Jaina
+Proceed to travel around through Dalaran.
+
+
+	Zone Stereotypes
+1. Strahnbrad - Regular village, houses and villagers everywhere
+2. Southpoint - Very free?
+3. Brill - Rural vilage, dirty and undeadful
+4. Lordaeron summer elvish - quite a bit of variety
+5. Like gilneas
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Abilities
+	Hero Potentialss
+Aerial Shackles
+
+	Interesting
+Barrage: Multi attack, change "Targets Allowed"
+
+	Enemies
+Heal: Negative value damages!
+
+
+
+	Elf
+Archer	: Maybe
+Mage	: Yes
+HE Priestess	: Yes
+
+	Creep
+Bandit Axethrower	: Yes
+Bandit Crossbowman	: Maybe
+Bandit Lord Female	: Yes
+Bandit Raider		: Maybe
+Bandit Risen		: Yes
+Bandit Rider		: Maybe
+Bandit Female		: Maybe
+Ratman	: YES
+Hero Trailblazer (rat)	: Yes
+Kobold Basher		: Yes
+Kobold Digger	: Yes xD
+Duck	: Yep
+Forest Troll Caster	: Maybe
+Forest Troll Females	: Sure
+Goat	: Yeah
+RPG Stands	: Hmm...
+Templar Archer	: Only as a DLC
+Troll Boarrider	: Yeah boiii
+Twilight Battlemaster	: Yeass
+
+	Dwarf
+Barbarian Villager	: Maybe
+Bulkyman	: Yes
+Dwarf Warrior Edited	: Yes
+Dwarf Bard	: Yes
+Dwarf Axethrower	: Maybe
+Hero Dwarven Rider	: DLC
+Villager Dwarf	: Maybe
+
+	Human
+Lothar	: DLC
+Arthas Kid	: Yes, its a gnome
+Assassin	: If I need a rogue hero, yes
+Bandit Blacksmith	: Yes
+Foot Archer	: Yes
+Gorian Reaver	: Ehh... maybe
+Graves	: Alternate model to something, yes
+Antonidas	: Ehmmaybe
+House	: Sure
+Human Barracks	: Yes
+Lightforge	: Yes
+Lumbermill	: Yes
+Peasant Female	: Yes
+Petard	: Yes
+Tavern	: Yes
+Villager Kid	: DLC
+Villager Man Archer	: Maybe
+
+	Orc
+Black Shaman	: Sure
+Boar Rider	: DLC
+Forest Troll Hut	: Yes
+Goblin Kid	: Yes
+Orc Mill	: Yes
+Spearthrower	: Yes
+Ram	: Yeah?
+Villager Peon	: Yea
+Warlock Archer	: Yes
+
+	Undead
+Abominogre	: DLC
+Calcium Terror	: DLC
+Crossbowman	: Yes
+Obsidian Statue	: DLC
+Skeletal Dragon	: Yes
+Skeletal Knight	: Yes
+Skeletal Felguard	: Yes
+Undead Bloodelf	: DLC
+Undead Vrykul	: DLC
+Undying Proudmore	: DLC
+Vampyr	: Maybe
+
+
+	Doodads
+Abomination Table	: Yes
+Bag	: Yes
+Banner Gnoll	: Yes
+Child Corpse	: Yes
+Fireflies	: Yes
+Kobold Rally Point	: Yes
+Orc Archway	: Yes
+Otter	: Yes
+Pot Spilled	: Yes
+Slaughtered Ogre	: Yes
+Smith	: Yes
+Training Dummy	: Yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
