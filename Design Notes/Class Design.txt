@@ -1,0 +1,15 @@
+	Rogue:
+Trait: sleeping dart
+Stealth
+Crit
+
+	Berserker:
+Idea: Deal a lot of damage and heal yourself. Be a monster
+
+	Mage:
+Trait: Polymorph
+AoE damage
+Summon
+	
+	Paladin
+Idea: Heal / Tank with passive aoe damage and burning / Nuker

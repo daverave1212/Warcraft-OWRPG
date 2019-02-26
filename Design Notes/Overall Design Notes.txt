@@ -64,7 +64,7 @@ o VIllagers are of multiple types (Brill Villager, Strahnbrad Villager, etc). Sc
 o When you click on an allied unit, it plays the sound.
 o Use sounds from World of Warcraft NPC's for interaction with NPC's.
 o Don't differentiate Bandit Female from Bandit Male - just Bandit, for immersion!
-
+o Different chests based on level (script them to drop more gold n shit)
 
 
 

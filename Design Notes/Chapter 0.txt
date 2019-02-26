@@ -15,5 +15,7 @@ You arrive on a ship from an unknown place.
 You were supposed to meet Arthas here, but he left for Strahnbrad.
 Make your way to Strahnbrad through Kings Road.
 	
-1. You have to meet Arthas at the entrance to Strahnbrad
+    Objectives:
+o Meet prince Arthas at the entrance to Strahnbrad
+o Learn the game
 
