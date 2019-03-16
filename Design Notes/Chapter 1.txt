@@ -1,0 +1,15 @@
+
+	Chapter 1 : The Defense of Strahnbrad
+The chapter starts at Uther's camp and ends at the end of Strahnbrad.
+
+0. Cinematic
+1. Arthas orders you to recruit 6 more soldiers from the village.
+Quick fade-in/fade-out and Arthas disappears.
+2. Objective: Talk to up to 6 Willing Villagers and recruit them.
+When recruiting, fade-in/fade-out and they disappear, then appear around Arthas.
+Villager Positions:
+	o Right outside the camp
+	o In a gnoll cage, east
+	o Being attacked by a wendingo, south
+	o 2 captured by bandits, south-east
+	o In the clearing in the middle of the map
